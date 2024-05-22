@@ -20,9 +20,9 @@
         "Gold": 0
     },
     "Two Purple One Red": {
-        "Purple": 63.81,
-        "Red": 32.94,
-        "Gold": 3.25
+        "Purple": 64.81,
+        "Red": 32.44,
+        "Gold": 2.75
     },
     "Two Purple One Gold": {
         "Purple": 65.35557758092094,
